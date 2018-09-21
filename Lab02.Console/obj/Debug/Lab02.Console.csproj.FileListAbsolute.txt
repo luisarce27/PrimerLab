@@ -1,0 +1,10 @@
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\bin\Debug\Lab02.Console.exe.config
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\bin\Debug\Lab02.Console.exe
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\bin\Debug\Lab02.Console.pdb
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\obj\Debug\Lab02.Console.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\obj\Debug\Lab02.Console.exe
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\obj\Debug\Lab02.Console.pdb
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\bin\Debug\Lab01.dll
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\bin\Debug\Lab01.pdb
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\obj\Debug\Lab02.Console.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\Lab01\Lab02.Console\obj\Debug\Lab02.Console.csproj.CopyComplete
